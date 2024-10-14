@@ -21,6 +21,7 @@
     "Callfrequency_banner": "0",
     "Callfrequency_native": "0",
     "Callfrequency_interstitial": "0",
+     "Callfrequency_openad": "0",
     "Callfrequency_Backinterstitial": "0",
     "Callfrequency_affiliate": "0"
   },
