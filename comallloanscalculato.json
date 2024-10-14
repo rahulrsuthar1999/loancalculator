@@ -46,8 +46,8 @@
     "enableNotify": ""
   },
   "Installextra": {
-    "adstatus": 0,
-    "admob_adstatus": 0,
+    "adstatus": 1,
+    "admob_adstatus": 1,
     "facebook_adstatus": 0,
     "admob_appopen_id": "ca-app-pub-3940256099942544/9257395921",
     "admob_banner_id": "ca-app-pub-3940256099942544/2014213617",
