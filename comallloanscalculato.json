@@ -6,16 +6,16 @@
     "facebook_adstatus": 0
   },
   "admob": {
-    "appopen_id": null,
-    "banner_id": null,
-    "native_id": null,
-    "interstitial_id": null
+    "appopen_id": "",
+    "banner_id": "",
+    "native_id": "",
+    "interstitial_id": ""
   },
   "facebook": {
-    "appopen_id": null,
-    "banner_id": null,
-    "native_id": null,
-    "interstitial_id": null
+    "appopen_id": "",
+    "banner_id": "",
+    "native_id": "",
+    "interstitial_id": ""
   },
   "frequency_capping": {
     "frequency_banner": "0",
@@ -43,32 +43,20 @@
     "collapsizeBanner": 0,
     "someTimeAgain": 0,
     "bannerAltnativeShow": false,
-    "enableNotify": "",
-    "devmodeEnable": "0",
-    "dev_ids": "",
-    "dev_silver": "0",
-    "dev_gold": "0",
-    "dev_platinum": "0",
-    "dev_directgooglepay": "0",
-    "dev_upiappdialog": "0",
-    "dev_scanQRcode": "0",
-    "dev_getInstantCallHistory": "0",
-    "dev_PaymentlinkSilverQRList": "",
-    "dev_PaymentlinkGoldQRList": "",
-    "dev_PaymentlinkPlatinumQRList": ""
+    "enableNotify": ""
   },
   "Installextra": {
     "adstatus": 0,
     "admob_adstatus": 0,
     "facebook_adstatus": 0,
-    "admob_appopen_id": null,
-    "admob_banner_id": null,
-    "admob_native_id": null,
-    "admob_interstitial_id": null,
-    "fb_appopen_id": null,
-    "fb_banner_id": null,
-    "fb_native_id": null,
-    "fb_interstitial_id": null,
+    "admob_appopen_id": "",
+    "admob_banner_id": "",
+    "admob_native_id": "",
+    "admob_interstitial_id": "",
+    "fb_appopen_id": "",
+    "fb_banner_id": "",
+    "fb_native_id": "",
+    "fb_interstitial_id": "",
     "frequency_banner": "0",
     "frequency_native": "0",
     "frequency_interstitial": "0",
@@ -83,8 +71,7 @@
     "collapsizeBanner": 0,
     "someTimeAgain": 0,
     "bannerAltnativeShow": false,
-    "enableNotify": "",
-    "devmodeEnable": "0"
+    "enableNotify": ""
   },
   "custom_banner": []
 }
