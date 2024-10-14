@@ -43,7 +43,8 @@
     "collapsizeBanner": 0,
     "someTimeAgain": 0,
     "bannerAltnativeShow": false,
-    "enableNotify": ""
+    "enableNotify": "",
+    "onesignal": ""
   },
   "Installextra": {
     "adstatus": 0,
@@ -71,7 +72,8 @@
     "collapsizeBanner": 0,
     "someTimeAgain": 0,
     "bannerAltnativeShow": false,
-    "enableNotify": ""
+    "enableNotify": "",
+    "onesignal": ""
   },
   "custom_banner": []
 }
