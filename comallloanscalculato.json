@@ -6,10 +6,10 @@
     "facebook_adstatus": 0
   },
   "admob": {
-    "appopen_id": "",
-    "banner_id": "",
-    "native_id": "",
-    "interstitial_id": ""
+    "appopen_id": "ca-app-pub-3940256099942544/9257395921",
+    "banner_id": "ca-app-pub-3940256099942544/2014213617",
+    "native_id": "ca-app-pub-3940256099942544/2247696110",
+    "interstitial_id": "ca-app-pub-3940256099942544/1033173712"
   },
   "facebook": {
     "appopen_id": "",
@@ -49,10 +49,10 @@
     "adstatus": 0,
     "admob_adstatus": 0,
     "facebook_adstatus": 0,
-    "admob_appopen_id": "",
-    "admob_banner_id": "",
-    "admob_native_id": "",
-    "admob_interstitial_id": "",
+    "admob_appopen_id": "ca-app-pub-3940256099942544/9257395921",
+    "admob_banner_id": "ca-app-pub-3940256099942544/2014213617",
+    "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
     "fb_appopen_id": "",
     "fb_banner_id": "",
     "fb_native_id": "",
