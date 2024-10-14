@@ -32,6 +32,7 @@
     "CallinterAdDialog": 0,
     "Callnativebtn_up": 0,
     "CallbannerTimer": 10000,
+    "CallCollabsizebannerTimer": 1000,
     "Callnativeclickupgrade": 0,
     "Callaffiliate_url": "null",
     "CallfbAppID": "1234",
