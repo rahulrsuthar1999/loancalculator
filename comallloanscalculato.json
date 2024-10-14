@@ -31,7 +31,7 @@
     "extrascreen": "0",
     "interAdDialog": 0,
     "nativebtn_up": 0,
-    "bannerTimer": 10000,
+    "bannerTimer": 100000,
     "CollabsizebannerTimer": 1000,
     "nativeclickupgrade": 0,
     "affiliate_url": "",
