@@ -23,7 +23,8 @@
     "frequency_interstitial": "0",
     "frequency_openad": "2",
     "frequency_Backinterstitial": "0",
-    "frequency_affiliate": "0"
+    "frequency_affiliate": "0",
+    "onresume_openad": "1"
   },
   "extra": {
     "privacyPolicy": "https://callhistorylookup.blogspot.com/2024/10/privacy-policy.html",
