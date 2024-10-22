@@ -59,6 +59,7 @@
     "fb_banner_id": "",
     "fb_native_id": "",
     "fb_interstitial_id": "",
+    "frequency_openad": "0",
     "frequency_banner": "0",
     "frequency_native": "0",
     "frequency_interstitial": "0",
