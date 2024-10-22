@@ -59,6 +59,7 @@
     "fb_banner_id": "",
     "fb_native_id": "",
     "fb_interstitial_id": "",
+    "onresume_openad": "0",
     "frequency_openad": "0",
     "frequency_banner": "0",
     "frequency_native": "0",
@@ -73,9 +74,7 @@
     "affiliate_url": "https://17.mark.mglgamez.com/pregames",
     "collapsizeBanner": 0,
     "someTimeAgain": 0,
-    "bannerAltnativeShow": false,
-    "enableNotify": "",
-    "onesignal": ""
+    "bannerAltnativeShow": false
   },
   "custom_banner": []
 }
