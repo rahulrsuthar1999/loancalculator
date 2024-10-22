@@ -1,8 +1,8 @@
 {
   "status": {
     "appname": "LoanBoss - EMI Loan Calculator",
-    "adstatus": 0,
-    "admob_adstatus": 0,
+    "adstatus": 1,
+    "admob_adstatus": 1,
     "facebook_adstatus": 0
   },
   "admob": {
@@ -19,10 +19,10 @@
   },
   "frequency_capping": {
     "frequency_banner": "0",
-    "frequency_native": "0",
-    "frequency_interstitial": "0",
-    "frequency_openad": "2",
-    "frequency_Backinterstitial": "0",
+    "frequency_native": "1",
+    "frequency_interstitial": "2",
+    "frequency_openad": "0",
+    "frequency_Backinterstitial": "2",
     "frequency_affiliate": "0",
     "onresume_openad": "0"
   },
@@ -32,7 +32,7 @@
     "extrascreen9": 0,
     "interAdDialog": 0,
     "nativebtn_up": 0,
-    "bannerTimer": 100000,
+    "bannerTimer": 5000,
     "CollabsizebannerTimer": 1000,
     "nativeclickupgrade": 0,
     "affiliate_url": "",
