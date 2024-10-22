@@ -6,10 +6,10 @@
     "facebook_adstatus": 0
   },
   "admob": {
-    "appopen_id": "/21775744923/example/app-open",
-    "banner_id": "ca-app-pub-3940256099942544/2014213617",
-    "native_id": "ca-app-pub-3940256099942544/2247696110",
-    "interstitial_id": ""
+    "appopen_id": "/21857590943,22958333258/apoorva_com.all.loans.calculator/open",
+    "banner_id": " /21857590943,22958333258/apoorva_com.all.loans.calculator/banner",
+    "native_id": "/21857590943,22958333258/apoorva_com.all.loans.calculator/native",
+    "interstitial_id": "/21857590943,22958333258/apoorva_com.all.loans.calculator/open"
   },
   "facebook": {
     "appopen_id": "",
