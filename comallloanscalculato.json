@@ -38,7 +38,7 @@
     "affiliate_url": "",
     "fbAppID": "1234",
     "fbClientID": "5678",
-    "userTracking": 1,
+    "userTracking": 0,
     "userTrackingURL": "",
     "userTrackingType": 0,
     "collapsizeBanner": 0,
