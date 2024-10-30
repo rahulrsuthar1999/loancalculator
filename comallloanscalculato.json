@@ -32,7 +32,7 @@
     "extrascreen9": 1,
     "interAdDialog": 0,
     "nativebtn_up": 0,
-    "bannerTimer": 5000,
+    "bannerTimer": 7000,
     "CollabsizebannerTimer": 2000,
     "nativeclickupgrade": 0,
     "affiliate_url": "",
@@ -42,10 +42,10 @@
     "userTrackingURL": "",
     "userTrackingType": 0,
     "collapsizeBanner": 0,
-    "someTimeAgain": 0,
+    "someTimeAgain": 1,
     "bannerAltnativeShow": false,
-    "enableNotify": "",
-    "onesignal": ""
+    "enableNotify": "b0bc6394-d713-4b64-aa00-2ccd6a9680eb",
+    "onesignal": "b0bc6394-d713-4b64-aa00-2ccd6a9680eb"
   },
   "Installextra": {
     "adstatus": 0,
