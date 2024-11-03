@@ -19,7 +19,7 @@
   },
   "frequency_capping": {
     "frequency_banner": "0",
-    "frequency_native": "2",
+    "frequency_native": "0",
     "frequency_interstitial": "1",
     "frequency_openad": "0",
     "frequency_Backinterstitial": "2",
