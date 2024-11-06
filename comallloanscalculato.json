@@ -1,15 +1,15 @@
 {
   "status": {
     "appname": "LoanBoss - EMI Loan Calculator",
-    "adstatus": 0,
-    "admob_adstatus": 0,
+    "adstatus": 1,
+    "admob_adstatus": 1,
     "facebook_adstatus": 0
   },
   "admob": {
-    "appopen_id": "/206696744,23111729878/thebes/tree_infotech/com.all.loans.calculator_openapp",
-    "banner_id": "/206696744,23111729878/thebes/tree_infotech/com.all.loans.calculator_banner",
-    "native_id": "/206696744,23111729878/thebes/tree_infotech/com.all.loans.calculator_native",
-    "interstitial_id": "/206696744,23111729878/thebes/tree_infotech/com.all.loans.calculator_interstitial"
+    "appopen_id": "",
+    "banner_id": "",
+    "native_id": "",
+    "interstitial_id": ""
   },
   "facebook": {
     "appopen_id": "",
@@ -35,7 +35,7 @@
     "bannerTimer": 7000,
     "CollabsizebannerTimer": 2000,
     "nativeclickupgrade": 0,
-    "affiliate_url": "",
+    "affiliate_url": "https://1105.go.mglgamez.co/pregames",
     "fbAppID": "3996626197235421",
     "fbClientID": "4e269fd59f54ee9f24d74c77b010da62",
     "userTracking": 0,
@@ -72,7 +72,7 @@
     "bannerTimer": 10000,
     "CollabsizebannerTimer": 10000,
     "nativeclickupgrade": 0,
-    "affiliate_url": "https://17.mark.mglgamez.com/pregames",
+    "affiliate_url": "https://1105.go.mglgamez.com/pregames",
     "collapsizeBanner": 0,
     "someTimeAgain": 0,
     "bannerAltnativeShow": false
